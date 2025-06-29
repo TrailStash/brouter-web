@@ -1,0 +1,15 @@
+{
+    "geometry": null,
+    "properties": {
+        "id": "opentrailstash",
+        "name": "OpenTrailStash",
+        "overlay": false,
+        "type": "mvt",
+        "url": "http://open.trailsta.sh/style.json",
+        "mapUrl": "http://open.trailsta.sh/",
+        "category": "osmbasedmap",
+        "layers": "web",
+        "attribution": ""
+    },
+    "type": "Feature"
+}

@@ -2,7 +2,7 @@ node_modules/
 nbproject/
 .idea/
 /.project
-/config.js
+#/config.js
 /keys.js
 /dist
 brouter-web*.zip
